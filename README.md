@@ -6,7 +6,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[yaxuuann]/[yaxuuann]/output/pacman-contribution-graph.svg">
 </picture>
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
+<!--_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_-->
 
 <!--
 **yaxuuann/yaxuuann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
